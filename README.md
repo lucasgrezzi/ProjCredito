@@ -61,27 +61,33 @@ Foram utilizados dois arquivos públicos:
 
 - Histograma da renda dos clientes;
   
-![Distribuição de renda](ProjCredito/graphics/distribuicao_de-renda.png)
+![image](https://github.com/user-attachments/assets/4f8eb933-5c36-4c1b-a1f3-5797c30ea46e)
+
   
 - Matriz de confusão para avaliação de modelos;
 
-![Matriz de confusão](ProjCredito/graphics/matriz_confusao.png)
+![image](https://github.com/user-attachments/assets/20d32ffd-3de9-4214-9d5a-db8a7d54be7e)
+
 
 - Gráfico de importância das variáveis;
   
-![Importância das variáveis](ProjCredito/graphics/gradient_boosting.png)
+![image](https://github.com/user-attachments/assets/2892cca6-0a49-4b6b-9107-2c7fc57a7792)
+
 
 - Árvore de decisão plotada com critérios de divisão.
 
-![Árvore de decisão](ProjCredito/graphics/previsao_inadeimplencia.png)
+![image](https://github.com/user-attachments/assets/00f8e6f1-5096-485f-ba8e-16be4332d475)
+
 
 - Validação do Modelo de confusão com ML
 
-![Matriz de confusão (Machine Learning](ProjCredito/graphics/matriz_confusao(ml).png)
+![image](https://github.com/user-attachments/assets/5ce7eba5-d454-4304-9b19-957adccdc27a)
+
 
 - Matriz de confusão para análise final
 
-![Validação com o Voting Classifier](ProjCredito/graphics/voting_confusao.png)
+![image](https://github.com/user-attachments/assets/540c461b-928a-48b2-bc7a-46a4e13c4fde)
+
 
 ---
 
