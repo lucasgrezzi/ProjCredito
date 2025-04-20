@@ -1,0 +1,8 @@
+Bibliotecas usadas :
+
+sklearn
+pandas
+numpy
+matplotlib
+seaborn
+warnings
