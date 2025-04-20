@@ -90,5 +90,5 @@ Foram utilizados dois arquivos públicos:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/lucasgrezzi/ProjCredito
+cd ProjCredito
