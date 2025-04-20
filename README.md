@@ -60,9 +60,28 @@ Foram utilizados dois arquivos públicos:
 ## 📈 Visualizações
 
 - Histograma da renda dos clientes;
+  
+![Distribuição de renda](ProjCredito/graphics/distribuicao_de-renda.png)
+  
 - Matriz de confusão para avaliação de modelos;
+
+![Matriz de confusão](ProjCredito/graphics/matriz_confusao.png)
+
 - Gráfico de importância das variáveis;
+  
+![Importância das variáveis](ProjCredito/graphics/gradient_boosting.png)
+
 - Árvore de decisão plotada com critérios de divisão.
+
+![Árvore de decisão](ProjCredito/graphics/previsao_inadeimplencia.png)
+
+- Validação do Modelo de confusão com ML
+
+![Matriz de confusão (Machine Learning](ProjCredito/graphics/matriz_confusao(ml).png)
+
+- Matriz de confusão para análise final
+
+![Validação com o Voting Classifier](ProjCredito/graphics/voting_confusao.png)
 
 ---
 
